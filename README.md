@@ -1,13 +1,14 @@
-# PointNet.pytorch
+# PointCloudNet
 This repo is implementation for PointNet(https://arxiv.org/abs/1612.00593) in pytorch. The model is in `pointnet/model.py`.
-
 It is tested with pytorch-1.0.
+
+Forked from https://github.com/fxia22/pointnet.pytorch.
 
 # Download data and running
 
 ```
-git clone https://github.com/fxia22/pointnet.pytorch
-cd pointnet.pytorch
+git clone https://github.com/mh-nyris/pointcloudnet.git
+cd pointcloudnet
 pip install -e .
 ```
 
